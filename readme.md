@@ -2,7 +2,7 @@
 
 > Game to beat the clock by typing random words
 
-### Demo
+### [Demo](http://speed-typing-game-ab.surge.sh/)
 
 ### Get started
 
